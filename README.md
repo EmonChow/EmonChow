@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Zahirul Islam Chowdhury
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Web Developing.
-- 💞️ I’m looking to collaborate on Coding.
-- 📫 How to reach me 
+# 👋 Hi there, I'm Zahirul Islam Chowdhury
+I'm a passionate Django developer. Welcome to my GitHub profile! 
 
-<!---
-EmonChow/EmonChow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 About Me
+
+- 💻 I'm currently working as a Jr. Software Engineer.
+- 🌱 I'm constantly learning and improving my skills in Django, Python, and web development.
+- 🚀 I love building scalable and efficient web applications that make a difference.
+- 🎓 I hold a degree in Physics from National University.
+- 📫 You can reach me at emonchowdhury494@gmail.com.
+
+## 🛠️ Technologies & Tools
+
+Here are some technologies and tools I frequently work with:
+
+- Python
+- Django
+- HTML5, CSS3
+- JavaScript, jQuery
+- Git, GitHub
+- PostgreSQL, MySQL
+
+
+
+## 🤝 Let's Collaborate
+
+I'm open to collaboration and new opportunities. Feel free to reach out if you're interested in working together or have any questions!
+
