@@ -21,8 +21,8 @@ Here are some technologies and tools I frequently work with:
 - PostgreSQL, MySQL
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrakib007&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakib007&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonchow&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonchow&layout=compact&theme=radical)
 
 ## 🤝 Let's Collaborate
 
